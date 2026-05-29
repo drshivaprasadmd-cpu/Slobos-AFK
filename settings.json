@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TerroristOfMinecraft.aternos.me",
+    "ip": "TerroristOfMinecraft.aternos.me:29773",
     "port": 29773,
-    "version": "1.26.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
