@@ -8,7 +8,7 @@
   "server": {
     "ip": "TerroristOfMinecraft.aternos.me",
     "port": 29773,
-    "version": "",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
